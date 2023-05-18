@@ -1,0 +1,48 @@
+# Modal verbs lists
+# Daerfen
+daerfen_ech = ["däerf", "duerft", "dierft"]
+daerfen_du = ["däerfs", "duerfts", "dierfts"]
+daerfen_hien = ["däerf", "duerft", "dierft"]
+daerfen_mir = ["däerfen", "duerften", "dierften"]
+daerfen_dir = ["däerft", "duerft", "dierft"]
+daerfen_si = ["däerfen", "duerften", "dierften"]
+
+# Kennen
+kennen_ech = ["kann", "konnt", "kënnt", "kéint"]
+kennen_du = ["kanns", "konnts", "kënnts", "kéints"]
+kennen_hien = ["kann", "konnt", "kënnt", "kéint"]
+kennen_mir = ["kënnen", "konnten", "kënnten", "kéinten"]
+kennen_dir = ["kënnt", "konnt", "kënnt", "kéint"]
+kennen_si = ["kënnen", "konnten", "kënnten", "kéinten"]
+
+# Mussen
+mussen_ech = ["muss", "musst", "misst"]
+mussen_du = ["muss", "musst", "misst"]
+mussen_hien = ["muss", "musst", "misst"]
+mussen_mir = ["missen", "mussten", "missten"]
+mussen_dir = ["musst", "musst", "misst"]
+mussen_si = ["missen", "mussten", "missten"]
+
+# Sollen
+sollen_ech = ["soll", "sollt", "sollt"]
+sollen_du = ["solls", "sollts", "sollts"]
+sollen_hie = ["soll", "sollt", "sollt"]
+sollen_mir = ["sollen", "sollten", "sollten"]
+sollen_dir = ["sollt", "sollt", "sollt"]
+sollen_si = ["sollen", "sollten", "sollten"]
+
+# Waerten
+waerten_ech = ["wäert"]
+waerten_du = ["wäerts"]
+waerten_hien = ["wäert"]
+waerten_mir = ["wäerten"]
+waerten_dir = ["wäert"]
+waerten_si = ["wäerten"]
+
+# Wellen
+wellen_ech = ["wëll", "wollt", "wéilt"]
+wellen_du = ["wëlls", "wollts", "wéilts"]
+wellen_hien = ["wëll", "wollt", "wéilt"]
+wellen_mir = ["wëllen", "wollten", "wéilten"]
+wellen_dir = ["wëllt", "wollt", "wéilt"]
+wellen_si = ["wëllen", "wollten", "wéilten"]
